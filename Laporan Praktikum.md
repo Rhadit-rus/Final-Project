@@ -1,32 +1,32 @@
 # Final-Project
 The final project of the introductory programming course
 
-[Hello World] (https://onecompiler.com/java/44argnat6)
+(pertemuan ke 1) [Hello World] (https://onecompiler.com/java/44argnat6)
 
-[Variabel] (https://onecompiler.com/java/44armre6p)
+(pertemuan ke 2) [Variabel] (https://onecompiler.com/java/44armre6p)
 
-[Operator Input & Output] (https://onecompiler.com/java/44ary4hhv)
+(pertemuan ke 3) [Operator Input & Output] (https://onecompiler.com/java/44ary4hhv)
 
-[Percabangan (if,if-else)] ()
+(pertemuan ke 4) [Percabangan (if,if-else)] (https://onecompiler.com/java/44aseuk2g)
 
-[Percabangan (Switch)] ()
+(pertemuan ke 5) [Percabangan (Switch)] (https://onecompiler.com/java/44asgbq63)
 
-[Perulangan (for Loop)] ()
+(pertemuan ke 6) [Perulangan (for Loop)] (https://onecompiler.com/java/44ashr8e9)
 
-[Perulangan (DoWhile)] ()
+(pertemuan ke 7) [Perulangan (DoWhile)] (https://onecompiler.com/java/44aspfpkj)
 
-[Array 1D] ()
+(pertemuan ke 8) [Array 1D] (https://onecompiler.com/java/44au35u7e)
 
-[Array Multidimensi] ()
+(pertemuan ke 9) [Array Multidimensi] (https://onecompiler.com/java/44au3kdxp)
 
-[Method] ()
+(pertemuan ke 10) [Method] (https://onecompiler.com/java/44au488aw)
 
-[Parameter] ()
+(pertemuan ke 11) [Parameter] (https://onecompiler.com/java/44au54ntn)
 
-[String Handling] ()
+(pertemuan ke 12) [String Handling] (https://onecompiler.com/java/44au8g5py)
 
-[Class & Object] ()
+(pertemuan ke 13) [Class & Object] (https://onecompiler.com/java/44au9x5qh)
 
-[Constructor & Encapsulation] ()
+(pertemuan ke 14) [Constructor & Encapsulation] (https://onecompiler.com/java/44au9x5qh)
 
-[Callculator] ()
+(Implementasi kaus nyata) [Callculator] (https://onecompiler.com/java/44audpawy)
