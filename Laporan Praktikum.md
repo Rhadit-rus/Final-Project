@@ -2,8 +2,7 @@
 The final project of the introductory programming course
 
 [Hello World] (https://onecompiler.com/java/44argnat6)
-
-[Hello World] ()
+[Variabel] (https://onecompiler.com/java/44armre6p)
 [Hello World] ()
 [Hello World] ()
 [Hello World] ()
